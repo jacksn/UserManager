@@ -2,11 +2,13 @@
          xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.ranga</groupId>
-    <artifactId>UserManagerTestTask</artifactId>
+    <groupId>by.jackson</groupId>
+    <artifactId>UserManager</artifactId>
     <version>0.1</version>
     <packaging>war</packaging>
     <name>User manager</name>
+    <description>Simple CRUD application, created with Spring, Hibernate, Spring MVC</description>
+    <url>https://github.com/jacksn/UserManager</url>
 
     <!-- Specifying the Versions of Spring, Hiberante, MySQL etc -->
     <properties>
